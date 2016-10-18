@@ -1,6 +1,6 @@
 # Udacity Senior Web Frontend Nanodegree Projects
 <hr />
-<img src="https://www.udacity.com/verified-certificate/nd802" alt="certificate of completion" />
+<a href="https://www.udacity.com/verified-certificate/nd802"> certificate of completion</a>
 
 <br />
 
